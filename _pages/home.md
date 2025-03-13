@@ -12,14 +12,14 @@ The **Sports Analytics Group @ NUS** applies advanced computational techniques t
 <style>
     /* Ensure all images in the carousel have the same size */
     .carousel-inner .item img {
-        width: 100%; /* Make images responsive */
-        height: 600px; /* Set a fixed height for uniformity */
+        width: 700px; /* Make images responsive */
+        height: 500px; /* Set a fixed height for uniformity */
         object-fit: cover; /* Crop images while maintaining aspect ratio */
     }
 
     /* Ensure the carousel itself has a fixed height */
     .carousel-inner {
-        height: 600px;
+        height: 500px;
     }
 
     /* Center images in case they have different widths */
@@ -68,6 +68,6 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px">
 </figure>
