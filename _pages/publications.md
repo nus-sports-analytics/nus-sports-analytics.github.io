@@ -64,11 +64,9 @@ permalink: /publications/
       <li>
         <div class="row">
           <div class="col-sm-12" display="block">
-            <span>
-              <b>{{ publi.title }}</b><br />
-              <em>{{ publi.authors }}</em><br />
-              <i>{{ publi.link.display }}</i>, {{ publi.year }}
-            </span>
+            <b>{{ publi.title }}</b><br />
+            <em>{{ publi.authors }}</em><br />
+            <i>{{ publi.link.display }}</i>, {{ publi.year }}
             
             <br />
 
