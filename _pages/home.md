@@ -11,6 +11,7 @@ The **Sports Analytics Group @ NUS** applies advanced computational techniques t
 Beyond fundamental research, we collaborate with academic institutions, sports organizations, and industry partners to bridge theory and real-world applications. As organizers of the **International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2025/))**, we foster global discourse in sports analytics. We have also founded **[Depintel](https://depintel.com/index.html)**, a technology-driven company dedicated to advancing sports intelligence through data analytics.  
 
 <!-- Add custom CSS inside a <style> block within a Markdown file -->
+<br><br>
 <style>
     /* Ensure all images in the carousel have the same size */
     .carousel-inner .item img {
