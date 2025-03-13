@@ -14,8 +14,8 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 <br>
 <style>
     #carousel {
-        width: 100vw; /* Full viewport width */
-        max-width: 100%; /* Ensure no overflow */
+        width: 90%;  /* Adjust the percentage for desired width */
+        max-width: 1200px; /* Set a max width */
         margin: auto;
     }
     
@@ -80,6 +80,6 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 
 <br>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px">
 </figure>
