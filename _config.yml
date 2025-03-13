@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Sports Analytics Group @ NUS.
 baseurl: ""
-url: "https://github.com/nus-sports-analytics.github.io"
+url: "https://github.com/nus-sports-analytics/nus-sports-analytics.github.io/tree/gh-pages"
 
 include:
   - .htaccess
