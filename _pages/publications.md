@@ -8,6 +8,7 @@ permalink: /publications/
 
 
 # Publications
+(See also the personal webpage of our group members)
 
 ## Group Highlights
 (At the end of this page, you can find the [full list of publications](#list-of-publications).)
