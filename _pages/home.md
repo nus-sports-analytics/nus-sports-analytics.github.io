@@ -27,7 +27,7 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 
     /* Center images in case they have different widths */
     .carousel-inner .item {
-        text-align: center;
+        text-align: left;
     }
 </style>
 
@@ -78,6 +78,6 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 
 <br><br>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px margin-right: 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px margin-right: 15px;">
 </figure>
