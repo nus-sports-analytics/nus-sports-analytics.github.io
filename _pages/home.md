@@ -6,7 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the **Sports Analytics Group @ NUS**, where we integrate cutting-edge computational techniques with sports science to revolutionize performance analysis, strategic decision-making, and athlete development.  
+The **Sports Analytics Group @ NUS** applies advanced computational techniques to sports science, driving innovations in performance analysis, strategic decision-making, and athlete development. Under the guidance of Professor **[Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/)**, our research spans **probabilistic reasoning, computer vision, and machine learning** to extract deep insights from game dynamics. Our work extends across multiple sports, including tennis, badminton, basketball, and American football, optimizing match strategies and player performance.  
+
+Beyond fundamental research, we collaborate with academic institutions, sports organizations, and industry partners to bridge theory and real-world applications. As organizers of the **International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2025/))**, we foster global discourse in sports analytics. We have also founded **[Depintel](https://depintel.com/index.html)**, a technology-driven company dedicated to advancing sports intelligence through data analytics.  
+
 
 <!-- Add custom CSS inside a <style> block within a Markdown file -->
 <style>
@@ -77,21 +80,6 @@ Welcome to the **Sports Analytics Group @ NUS**, where we integrate cutting-edge
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
-## About Us
-Led by **Professor [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/)**, our research focuses on Sports Analytics, a highly interdisciplinary field combining probabilistic reasoning, computer vision, and machine learning to extract deep insights from game dynamics. Our work spans multiple sports, such as tennis, badminton, basketball, and American football, driving innovation in match strategy, player performance optimization, and tactical analysis. Beyond research, we actively collaborate with academic institutions, sports organizations, and industry partners to bridge the gap between theory and real-world applications. We are also the organizers of the International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2025/)), a global platform uniting experts in academia, industry, and professional sports.  
-
-## Depintel - SportsInsight  
-Our research has led to the founding of [Depintel](https://depintel.com/index.html), a technology-driven company dedicated to transforming sports through advanced data analytics. Our flagship product, [SportsInsight](https://depintel.pythonanywhere.com/), provides state-of-the-art insight analytics for professional tennis players, offering:  
-- Comprehensive match analysis using AI-powered models.  
-- Opponent scouting and tactical recommendations for pre-match preparation.  
-- Automated video breakdown for fast, fine-grained event detection and strategy formulation.  
-
-SportsInsight is designed to empower players and coaches with deep, data-driven intelligence, enhancing competitive performance at the highest levels.  
-
-## Global Collaboration 
-Beyond research and product development, we actively collaborate with academic institutions, sports organizations, and industry partners to bridge the gap between theory and real-world applications. We are also the organizers of the International Sports Analytics Conference and Exhibition (ISACE), a global platform uniting experts in academia, industry, and professional sports.  
-
-At NUS, we are committed to pushing the boundaries of sports intelligence—transforming raw data into actionable insights for the future of competitive sports.  
 
 
 <figure class="fourth">
