@@ -8,21 +8,18 @@ permalink: /
 
 The **Sports Analytics Group @ NUS** applies advanced computational techniques to sports science, driving innovations in performance analysis, strategic decision-making, and athlete development. Under the guidance of Professor **[Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/)**, our research spans **probabilistic reasoning, computer vision, and machine learning** to extract deep insights from game dynamics. Our work extends across multiple sports, including tennis, badminton, basketball, and American football, optimizing match strategies and player performance.  
 
-Beyond fundamental research, we collaborate with academic institutions, sports organizations, and industry partners to bridge theory and real-world applications. As organizers of the **International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2025/))**, we foster global discourse in sports analytics. We have also founded **[Depintel](https://depintel.com/index.html)**, a technology-driven company dedicated to advancing sports intelligence through data analytics.  
-
-
 <!-- Add custom CSS inside a <style> block within a Markdown file -->
 <style>
     /* Ensure all images in the carousel have the same size */
     .carousel-inner .item img {
         width: 100%; /* Make images responsive */
-        height: 500px; /* Set a fixed height for uniformity */
+        height: 600px; /* Set a fixed height for uniformity */
         object-fit: cover; /* Crop images while maintaining aspect ratio */
     }
 
     /* Ensure the carousel itself has a fixed height */
     .carousel-inner {
-        height: 500px;
+        height: 600px;
     }
 
     /* Center images in case they have different widths */
@@ -67,7 +64,7 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-
+Beyond fundamental research, we collaborate with academic institutions, sports organizations, and industry partners to bridge theory and real-world applications. As organizers of the **International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2025/))**, we foster global discourse in sports analytics. We have also founded **[Depintel](https://depintel.com/index.html)**, a technology-driven company dedicated to advancing sports intelligence through data analytics.  
 
 
 <figure class="fourth">
