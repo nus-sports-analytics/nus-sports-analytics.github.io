@@ -36,9 +36,10 @@
   highlight: 1
 
 - title: "Sports Strategy Analytics Using Probabilistic Model Checking and Machine Learning"
+  description: This thesis presents a multi-disciplinary research work of applying formal methods, machine learning, and compute vision to a novel application domain, sports analytics.
   authors: Kan Jiang
   year: 2023
-  description: This thesis presents a multi-disciplinary research work of applying formal methods, machine learning, and compute vision to a novel application domain, sports analytics.
+  link:
     url: https://drive.google.com/file/d/1l3_e6cNH2Wdz2jhRGYroonBmgDO2N9KT/view?usp=sharing
     display: PhD Thesis, National University of Singapore, 2023
   highlight: 1
