@@ -15,8 +15,8 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 <br>
 <style>
     #carousel {
-        width: 100%;  /* Adjust the percentage for desired width */
-        max-width: 1200px; /* Set a max width */
+        width: 100vw; /* Full viewport width */
+        max-width: 100%; /* Ensure no overflow */
         margin: auto;
     }
     
