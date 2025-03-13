@@ -40,8 +40,8 @@
   year: 2023
   link:
     url: https://drive.google.com/file/d/1l3_e6cNH2Wdz2jhRGYroonBmgDO2N9KT/view?usp=sharing
-    display: NUS PhD Thesis, 2023
-  highlight: 0
+    display: PhD Thesis, National University of Singapore, 2023
+  highlight: 1
 
 - title: "Sports Analytics Using Probabilistic Model Checking and Deep Learning"
   authors: Jin Song Dong, Kan Jiang, Zhaoyu Liu, Chen Dong, Zhe Hou, Rajdeep Singh Hundal, Jingyu Guo, Yun Lin
