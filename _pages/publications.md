@@ -75,8 +75,8 @@ permalink: /publications/
               <a href="{{ publi.link.url }}" target="_blank"><button class="btn-arxiv">Paper</button></a> 
             {% endif %}
 
-            {% if publi.code %}
-              <a data-toggle="collapse" href="#{{ publi.id }}-code" class="btn-code" role="button">Code</a>
+            {% if publi.link.code %}
+              <a href="{{ publi.link.code }}" target="_blank"><button class="btn-code">Code</button></a> 
             {% endif %}
 
             {% if publi.abstract %}
