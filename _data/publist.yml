@@ -1,7 +1,8 @@
 - title: "F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos"
-  # image: BSCCO_noise.png
-  # description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
+  image: vid2seq.png
+  description: Analyzing Fast, Frequent, and Fine-grained (F3) events presents a significant challenge in video analytics and multi-modal LLMs. Current methods struggle to identify events that satisfy all the F3 criteria with high accuracy due to challenges such as motion blur and subtle visual discrepancies. To advance research in video understanding, we introduce F3Set, a benchmark that consists of video datasets for precise F3 event detection. Datasets in F3Set are characterized by their extensive scale and comprehensive detail, usually encompassing over 1,000 event types with precise timestamps and supporting multi-level granularity. Currently, F3Set contains several sports datasets, and this framework may be extended to other applications as well. We evaluated popular temporal action understanding methods on F3Set, revealing substantial challenges for existing techniques. Additionally, we propose a new method, F3ED, for F3 event detections, achieving superior performance.
   authors: Zhaoyu Liu, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong
+  year: 2025
   link:
     url: https://openreview.net/pdf?id=vlg5WRKHxh
     code: https://github.com/F3Set/F3Set/tree/main
@@ -10,22 +11,25 @@
 
 - title: "Analyzing the Formation Strategy in Tennis Doubles Game"
   authors: Zhaoyu Liu, Chen Dong, Jia Wei Chen, Alvin Min Jun Jiang, Guanzhou Chen, Aayan Faraz Shaikh, Tian Yu Dong, Chen Wang, Kan Jiang, Jin Song Dong
+  year: 2025
   link:
     url: https://link.springer.com/article/10.1007/s42979-024-03598-3
     display: Springer Nature Computer Science, 2025
-  highlight: 1
+  highlight: 0
 
 - title: "PCSP# denotational semantics with an application in sports analytics"
   authors: Zhaoyu Liu, Murong Ma, Kan Jiang, Zhe Hou, Ling Shi, Jin Song Dong
+  year: 2024
   link:
     url: https://zhehou.github.io/papers/PCSP-Denotational-Semantics-with-an-Application-in-Sports-Analytics.pdf
     display: The Application of Formal Methods, 2024
-  highlight: 1
+  highlight: 0
 
 - title: "Insight Analysis for Tennis Strategy and Tactics"
-  # image: ShotNoise.png
-  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  image: pipeline.jpg
+  description: Nowadays there are a wealth of devices and cameras at sports venues and facilities that collect different forms of data. Mining useful insights from such data are crucial for improving the performance of professional athletes. In this paper, we introduce a new interactive tennis analytics framework that can realistically simulate tennis matches using parameters mined from past match data and help reveal in-depth knowledge about tennis strategies. Our approach uses probabilistic model checking to formally evaluate the effectiveness of various strategies and tactics and recommend the best ones for improving players’ chances of winning. Our framework is easily understandable and actionable by players and coaches at any level. We have performed evaluations on tennis matches over the past decade to show the effectiveness of our strategy analytics framework.
   authors: Zhaoyu Liu, Kan Jiang, Zhe Hou, Yun Lin, Jin Song Dong
+  year: 2023
   link:
     url: https://www.depintel.com/papers/icdm2023.pdf
     display: International Conference on Data Mining (ICDM), 2023
@@ -33,31 +37,35 @@
 
 - title: "Sports Strategy Analytics Using Probabilistic Model Checking and Machine Learning"
   authors: Kan Jiang
+  year: 2023
   link:
     url: https://drive.google.com/file/d/1l3_e6cNH2Wdz2jhRGYroonBmgDO2N9KT/view?usp=sharing
     display: NUS PhD Thesis, 2023
-  highlight: 1
+  highlight: 0
 
 - title: "Sports Analytics Using Probabilistic Model Checking and Deep Learning"
   authors: Jin Song Dong, Kan Jiang, Zhaoyu Liu, Chen Dong, Zhe Hou, Rajdeep Singh Hundal, Jingyu Guo, Yun Lin
+  year: 2023
   link:
     url: https://www.researchgate.net/profile/Zhe-Hou-5/publication/375844836_Sports_Analytics_Using_Probabilistic_Model_Checking_and_Deep_Learning/links/65cab6701e1ec12eff8a6c1d/Sports-Analytics-Using-Probabilistic-Model-Checking-and-Deep-Learning.pdf
     display: International Conference on Engineering of Complex Computer Systems (ICECCS), 2023
-  highlight: 1
+  highlight: 0
   
 - title: "Deep Learning Application in Broadcast Tennis Video Annotation"
   authors: Kan Jiang, Masoumeh Izadi, Zhaoyu Liu, Jin Song Dong
+  year: 2020
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9376206/
     display: International Conference on Engineering of Complex Computer Systems (ICECCS), 2020
-  highlight: 1
+  highlight: 0
 
 - title: "Sports Strategy Analytics using Probabilistic Reasoning"
   authors: Jin Song Dong, Ling Shi, Kan Jiang, Jing Sun
+  year: 2015
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7384244/
     display: International Conference on Engineering of Complex Computer Systems (ICECCS), 2015
-  highlight: 1
+  highlight: 0
 
   
 
