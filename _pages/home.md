@@ -11,23 +11,25 @@ The **Sports Analytics Group @ NUS** applies advanced computational techniques t
 Beyond fundamental research, we collaborate with academic institutions, sports organizations, and industry partners to bridge theory and real-world applications. As organizers of the **International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2025/))**, we foster global discourse in sports analytics. We have also founded **[Depintel](https://depintel.com/index.html)**, a technology-driven company dedicated to advancing sports intelligence through data analytics.  
 
 <!-- Add custom CSS inside a <style> block within a Markdown file -->
-<br><br>
+<br>
 <style>
-    /* Ensure all images in the carousel have the same size */
-    .carousel-inner .item img {
-        width: 800px; /* Make images responsive */
-        height: 100%; /* Set a fixed height for uniformity */
-        object-fit: cover; /* Crop images while maintaining aspect ratio */
+    #carousel {
+        width: 100vw; /* Full viewport width */
+        max-width: 100%; /* Ensure no overflow */
+        margin: auto;
     }
-
-    /* Ensure the carousel itself has a fixed height */
+    
+    /* Ensure the carousel items take full width */
     .carousel-inner {
-        height: 100%;
+        width: 100%;
+        height: 500px; /* Adjust height if needed */
     }
-
-    /* Center images in case they have different widths */
-    .carousel-inner .item {
-        text-align: left;
+    
+    /* Make sure all images scale properly */
+    .carousel-inner .item img {
+        width: 100vw; /* Make images fill the entire screen width */
+        height: 500px; /* Keep a consistent height */
+        object-fit: cover; /* Ensures images crop correctly */
     }
 </style>
 
@@ -76,8 +78,8 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<br><br>
+<br>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px margin-right: 15px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px margin-right: 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px;">
 </figure>
