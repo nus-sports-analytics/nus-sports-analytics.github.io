@@ -79,24 +79,9 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<br><br><br>
-<style>
-  .logo-container {
-      display: flex;
-      justify-content: center; /* Centers images horizontally */
-      align-items: center; /* Centers images vertically */
-      gap: 20px; /* Adjust space between images */
-      width: 100%;
-  }
+<br><br><br><br>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" style="width: 200px; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" style="width: 200px;">
+</figure>
 
-  .logo-container img {
-      max-width: 100%; /* Ensures images are responsive */
-      height: auto; /* Keeps aspect ratio */
-      width: 200px; /* Set a fixed width if needed */
-  }
-</style>
-
-<div class="logo-container">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nus.png" alt="NUS Logo">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/depintel.png" alt="Depintel Logo">
-</div>
