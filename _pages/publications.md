@@ -55,11 +55,15 @@ permalink: /publications/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
-## Full List of publications
+## List of Publications
 
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br />
+  <i>{{ publi.link.display }}</i><br />
+  <a href="{{ publi.link.url }}" target="_blank"><button class="btn-arxiv">Paper</button></a> 
+  <a href="{{ publi.link.code }}" target="_blank"><button class="btn-arxiv">Code</button></a> 
+
 
 {% endfor %}
