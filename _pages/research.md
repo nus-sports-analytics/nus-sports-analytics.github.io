@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Sports Analytics Group @ NUS - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Sports Analytics Group @ NUS -- Research"
 sitemap: false
 permalink: /research/
 ---
