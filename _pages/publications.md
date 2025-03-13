@@ -61,12 +61,14 @@ permalink: /publications/
   <h3 class="year">{{ year_group.name }}</h3>
   <ol class="bibliography">
     {% for publi in year_group.items %}
-      <li>
+
         <div class="row">
           <div class="col-sm-12" display="block">
-            <b>{{ publi.title }}</b><br />
-            <em>{{ publi.authors }}</em><br />
-            <i>{{ publi.link.display }}</i>, {{ publi.year }}
+            <span>
+               <b>{{ publi.title }}</b><br />
+               <em>{{ publi.authors }}</em><br />
+               <i>{{ publi.link.display }}</i>, {{ publi.year }}
+             </span>
             
             <br />
 
@@ -103,7 +105,7 @@ permalink: /publications/
             {% endif %}
           </div>
         </div>
-      </li>
+
     {% endfor %}
   </ol>
 {% endfor %}
