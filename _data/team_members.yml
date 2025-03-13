@@ -1,7 +1,7 @@
-- name: Milan P Allan
+- name: Dong Jing Song
   photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+  info: Full Professor @ National University of Singapore
+  email: dcsdjs@nus.edu.sg
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
@@ -9,17 +9,17 @@
   education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
-- name: Jiasen Niu
+- name: Jiang Kan
   photo: Jiasen.png
-  info: Leader Leiden Branch, started Oct 2020
+  info: Lecturer @ National University of Singapore
   email: niu@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
   education2: BSc Jilin University
 
-- name: Yudai Sato
+- name: Hou Zhe
   photo: Sato.jpeg
-  info: Postdoc, started September 2023
+  info: Senior Lecturer @ Griffith Univerity
   email: jwlee0421@postech.ac.kr
   number_educ: 2
   education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
