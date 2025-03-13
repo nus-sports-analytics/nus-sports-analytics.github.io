@@ -22,7 +22,7 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>{{ publi.title }}</pubtit>
       <p><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left" /></p>
