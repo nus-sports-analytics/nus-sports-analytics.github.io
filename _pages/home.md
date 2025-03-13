@@ -16,13 +16,13 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
     /* Ensure all images in the carousel have the same size */
     .carousel-inner .item img {
         width: 800px; /* Make images responsive */
-        height: 500px; /* Set a fixed height for uniformity */
+        height: 100%; /* Set a fixed height for uniformity */
         object-fit: cover; /* Crop images while maintaining aspect ratio */
     }
 
     /* Ensure the carousel itself has a fixed height */
     .carousel-inner {
-        height: 500px;
+        height: 100%;
     }
 
     /* Center images in case they have different widths */
