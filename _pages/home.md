@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+<br>
 The **Sports Analytics Group @ NUS** applies advanced computational techniques to sports science, driving innovations in performance analysis, strategic decision-making, and athlete development. Under the guidance of Professor **[Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/)**, our research spans **probabilistic reasoning, computer vision, and machine learning** to extract deep insights from game dynamics. Our work extends across multiple sports, including tennis, badminton, basketball, and American football, optimizing match strategies and player performance.  
 
 Beyond fundamental research, we collaborate with academic institutions, sports organizations, and industry partners to bridge theory and real-world applications. As organizers of the **International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2025/))**, we foster global discourse in sports analytics. We have also founded **[Depintel](https://depintel.com/index.html)**, a technology-driven company dedicated to advancing sports intelligence through data analytics.  
