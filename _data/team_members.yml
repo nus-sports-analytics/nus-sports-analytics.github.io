@@ -1,124 +1,41 @@
-- name: Dong Jing Song
-  photo: Milan1.jpg
-  info: Full Professor @ National University of Singapore
+- name: Jing Song Dong
+  photo: profdong.jpg
+  info: Full Professor in Computer Science Department, School of Computing
+  institution: National University of Singapore
   email: dcsdjs@nus.edu.sg
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  webpage: https://www.comp.nus.edu.sg/~dongjs/
+  
+- name: Kan Jiang
+  photo: jiangkan.jpg
+  info: Lecturer in Computer Science Department, School of Computing
+  institution: National University of Singapore
+  email: jiangkan@nus.edu.sg
+  webpage: https://www.comp.nus.edu.sg/cs/people/jiangkan/
 
-- name: Jiang Kan
-  photo: Jiasen.png
-  info: Lecturer @ National University of Singapore
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+- name: Zhe Hou
+  photo: zhe.jpg
+  info: Senior Lecturer in School of Information and Communication Technology (ICT)
+  institution: Griffith Univerity
+  email: z.hou@griffith.edu.au
+  webpage: https://zhehou.github.io/
 
-- name: Hou Zhe
-  photo: Sato.jpeg
-  info: Senior Lecturer @ Griffith Univerity
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+- name: Yun Lin
+  photo: linyun.png
+  info: Associate Professor in School of Computer Science
+  institution:  Shanghai Jiao Tong Univerity
+  email: lin_yun@stju.edu.cn
+  webpage: http://linyun.info/
 
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Akademischer Rat, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
-  education2: MSc KIT
+- name: Zhaoyu Liu
+  photo: zhaoyu.png
+  info: PhD Student in Computer Science Department, School of Computing
+  email: liuzy@nus.edu.sg
+  institution: National University of Singapore
+  webpage: https://lzyandy.github.io/
 
-- name: Premakumar Yanda
-  photo: Yanda.png
-  info: Postdoc, since March 2025
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, JNCASR, with A. Sundaresan
-  education2: MSc, Andhra University
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Sanghun Lee 이상헌
-  photo: Sanghun.jpg
-  info: PhD Student
-  email: b
-  number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
-  education3:
-  education4:
-
-- name: Louw Feenstra
-  photo: rock.jpg
-  info: PhD Student, started November 2024
-  email: b
-  number_educ: 2
-  education1: BSc, Leiden University
-  education2: MSc, LMU Munich, with [Christian Pfleiderer](https://www.professoren.tum.de/en/pfleiderer-christian)
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info)
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University
-
-- name: Jaroslav Sawitsch
-  photo: jaroslav.png
-  info: Responsible for admin and finances
-  email: b
-  number_educ: 2
-  education1: Fachklasse für Bürokaufleute, Immenstadt
-  education2: 
-  education3:
-  education4:
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
+- name: Murong Ma
+  photo: murong.jpeg
+  info: PhD Student in Computer Science Department, School of Computing
+  email: murongma@u.nus.edu
+  institution: National University of Singapore
+  webpage: https://m-myron.github.io/
