@@ -16,14 +16,14 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left; margin-right: 15px;" />
   <h4>{{ member.name }}</h4>
   <p><i>{{ member.info }}</i></p>
   <p><i>{{ member.institution }}</i></p>
 
   {% if member.website %}
-  <p><a href="{{ member.website }}" target="_blank" class="btn btn-primary btn-sm">Personal Website</a></p>
+  <p><a href="{{ member.webpage }}" target="_blank" class="btn btn-primary btn-sm">Personal Website</a></p>
   {% endif %}
 </div>
 
