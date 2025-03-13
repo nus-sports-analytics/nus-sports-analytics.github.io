@@ -47,7 +47,16 @@ Beyond fundamental research, we collaborate with academic institutions, sports o
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/isace24.JPG" alt="Slide 1">
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/djokovic.jpg" alt="Slide 2">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/isace24-2.jpg" alt="Slide 2">
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/djokovic.jpg" alt="Slide 3">
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tennis-session.JPG" alt="Slide 4">
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ssac24.jpg" alt="Slide 5">
         </div>
     </div>
 
