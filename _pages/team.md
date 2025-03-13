@@ -25,7 +25,6 @@ permalink: /team/
   {% if member.website %}
   <p><a href="{{ member.webpage }}" target="_blank" class="btn btn-primary btn-sm">Personal Website</a></p>
   {% endif %}
-</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 {% if even_odd == 1 %}
