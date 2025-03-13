@@ -63,7 +63,6 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   <i>{{ publi.link.display }}</i><br />
   <a href="{{ publi.link.url }}" target="_blank"><button class="btn-arxiv">Paper</button></a> 
-  <a href="{{ publi.link.code }}" target="_blank"><button class="btn-arxiv">Code</button></a> 
 
 
 {% endfor %}
