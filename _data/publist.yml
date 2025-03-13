@@ -1,5 +1,5 @@
 - title: "F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos"
-  image: vid2seq.png
+  image: vid2seq.jpg
   description: Analyzing Fast, Frequent, and Fine-grained (F3) events presents a significant challenge in video analytics and multi-modal LLMs. Current methods struggle to identify events that satisfy all the F3 criteria with high accuracy due to challenges such as motion blur and subtle visual discrepancies. To advance research in video understanding, we introduce F3Set, a benchmark that consists of video datasets for precise F3 event detection. Datasets in F3Set are characterized by their extensive scale and comprehensive detail, usually encompassing over 1,000 event types with precise timestamps and supporting multi-level granularity. Currently, F3Set contains several sports datasets, and this framework may be extended to other applications as well. We evaluated popular temporal action understanding methods on F3Set, revealing substantial challenges for existing techniques. Additionally, we propose a new method, F3ED, for F3 event detections, achieving superior performance.
   authors: Zhaoyu Liu, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong
   year: 2025
