@@ -53,6 +53,13 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 <p> &nbsp; </p>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/tennis-court.jpg">
+</figure>
+
+
+
+
 First advertisement.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
