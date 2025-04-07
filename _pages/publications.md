@@ -74,7 +74,10 @@ permalink: /publications/
              </span>
             
             <br />
-
+            {% if publi.link.project %}
+              <a href="{{ publi.link.project }}" target="_blank"><button class="btn-project">Website</button></a> 
+            {% endif %}
+            
             {% if publi.link.url %}
               <a href="{{ publi.link.url }}" target="_blank"><button class="btn-arxiv">Paper</button></a> 
             {% endif %}
