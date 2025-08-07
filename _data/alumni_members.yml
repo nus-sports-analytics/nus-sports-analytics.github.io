@@ -1,6 +1,7 @@
 - name: Alvin Jiang Min Jun
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -8,6 +9,7 @@
 - name: Chang Jing Yan
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -15,6 +17,7 @@
 - name: Chen Guanzhou
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -30,6 +33,7 @@
 - name: Chu Thi Thanh
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -37,6 +41,7 @@
 - name: Hao Zeyu
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -44,6 +49,7 @@
 - name: Matthew Blower
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -51,6 +57,7 @@
 - name: Niu Boqian
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -58,13 +65,15 @@
 - name: Teo Wei Jun Charlton
   duration: AY2024 - 2025
   info: Final Year Project (Bachelor)
-  final_report: Enhancing Sports Strategy with Video Analytics and Data Mining
+  project_title: Enhancing Sports Strategy with Video Analytics and Data Mining
+  final_report: 
   ppt:
   education1: National University of Singapore
 
 - name: Li Zizhen
   duration: AY2024 - 2025
   info: UROP (Bachelor)
+  project_title: 
   final_report:
   ppt:
   education1: National University of Singapore
@@ -72,6 +81,7 @@
 - name: Ong Shao Yong
   duration: AY2024 - 2025
   info: UROP (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
@@ -79,6 +89,7 @@
 - name: Su Shenyi
   duration: AY2024 - 2025
   info: UROP (Bachelor)
+  project_title:
   final_report:
   ppt:
   education1: National University of Singapore
